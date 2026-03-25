@@ -11,7 +11,7 @@ This repo contains the code for the following works:
   *Thirty-ninth Conference on Neural Information Processing Systems, 2025*  
   [[📄 Paper](https://arxiv.org/abs/2412.05723)] [[🌐 OpenReview](https://openreview.net/forum?id=KlTOctRctg)] [[📑 Slides](https://neurips.cc/media/neurips-2025/Slides/116513.pdf)] [[🖼️ Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202025/116513.png)]
 
-
+Please note this is my professor's work, and I plan to add to this over time
 
 ## 📖 Table of Contents
 1. [⚙️ Installation](#installation)
